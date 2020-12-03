@@ -12,7 +12,10 @@
     "url": "git+https://github.com/pixrael/MyPollProject-Back.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Set Israel Ortiz Monasterio",
+  "contributors": [
+    "Yanny Diaz"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pixrael/MyPollProject-Back/issues"
